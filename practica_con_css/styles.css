@@ -88,28 +88,40 @@ nav ul li a{
         
         }
     
-        @media(min-width:601px) and (max-width: 1000px){
+        @media(min-width:365px) and (max-width: 617px){
  body{
      font-family: Arial,sans-serif;
  }
- aside{
-     float:left;
-     width:40%;
-     clear:both;
- }
- section{
-     float: left;
-     width:60%;
- }
- #formacion{
-     width: 100%;
- }
- #experiencia{
+ h1 {
 
+color:red
+
+}
+article li {
+
+color:#00f;
+
+}
+
+article li strong {
+color:#000;
+
+
+}
+
+aside{
+
+
+    
     width: 100%;
- }
+    
 
-
+}
+section{
+    
+    width: 100%;
+    
+    }
 
 
 
